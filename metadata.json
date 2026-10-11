@@ -1,0 +1,6 @@
+{
+  "name": "DreamDash",
+  "description": "An endless fantasy runner game where young adventurers dash, jump, slide, and weave through magical realms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

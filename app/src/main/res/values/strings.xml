@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DreamDash</string>
+    <string name="game_title">DreamDash</string>
+    <string name="tagline">Fantasy Endless Runner</string>
+    <string name="play">Play</string>
+    <string name="restart">Try Again</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="game_over">Game Over</string>
+    <string name="score">Score</string>
+    <string name="high_score">High Score</string>
+    <string name="coins">Coins</string>
+    <string name="distance">Distance</string>
+    <string name="characters">Adventurers</string>
+    <string name="boy_name">Kael</string>
+    <string name="boy_title">The Swift Hunter</string>
+    <string name="girl_name">Lyra</string>
+    <string name="girl_title">The Starlight Ranger</string>
+    <string name="controls_hint">Swipe or HUD buttons: Left/Right lanes, Up Jump, Down Slide</string>
+</resources>
